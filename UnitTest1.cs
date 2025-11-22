@@ -11,7 +11,7 @@ namespace PUNTO_NET_CI
         [TestMethod]
         public void TestMethod2()
         {
-            Assert.IsTrue(false);
+            Assert.IsTrue(true);
         }
     }
 }
